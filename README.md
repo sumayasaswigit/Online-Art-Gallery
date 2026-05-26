@@ -113,7 +113,3 @@ docker-compose up
 - AI-based artwork recommendations
 - Cloud deployment
 - Advanced search filters
-
-## Author
-
-Geethika Vootla
